@@ -30,4 +30,4 @@
 Для начала работы бота достаточно запустить его на сервере, и он будет работать в режиме 24/7, обрабатывая запросы пользователей.
 
 #### Контакты:
-Разработчик: https://t.me/pizzaway, Тест бота: https://t.me/VideoCircleConverterBot
+Разработчик: https://t.me/worpli, Тест бота: https://t.me/VideoCircleConverterBot
